@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.37.0",
-  "version_code": 6,
-  "released": "2026-11-11",
+  "version_name": "0.38.0",
+  "version_code": 7,
+  "released": "2026-11-12",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.37.0/TinyIslandSurvival.apk",
-    "sha256": "a8a52bc83abdf269f65628e5f4e333e78c4f6b528db25520254b5cae49be06f1",
-    "size": 54799835,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.38.0/TinyIslandSurvival.apk",
+    "sha256": "c16398f93b3cfefcfb5102759293eb30c3301b19ca5a0ee94110a0c62ae4f1bb",
+    "size": 56317143,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.37.0/TinyIslandSurvival-windows.zip",
-    "sha256": "faccb1a07c250ccbbdaf481fd1253c5cd71ac9b3ba06b749485b9f281a1c7c71",
-    "size": 40026833
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.38.0/TinyIslandSurvival-windows.zip",
+    "sha256": "4efafe9b65cebd43f47952e9ab6f11cd7bfeb0ca8102b8ca2e63b7b216e8c242",
+    "size": 41202567
   },
-  "notes_vi": "Hòn đảo mới lớn gấp đôi: gềnh đá, rừng sâu, rừng ngập mặn, hang, thác nước, đảo nhỏ; tài nguyên mới. Cài đặt → Bắt đầu đảo mới để chơi (đảo cũ được sao lưu)."
+  "notes_vi": "Nhân vật nam/nữ và trang phục, hoạt ảnh và biểu cảm mới; Space để nhảy; sinh vật biển và bơi; gió, sóng, bão quật đổ cây; rìu đồng cấp 2 cho cây khổng lồ."
 }
