@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.35.0",
-  "version_code": 2,
+  "version_name": "0.35.1",
+  "version_code": 3,
   "released": "2026-11-11",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.35.0/TinyIslandSurvival.apk",
-    "sha256": "aa31d213eae9022c051690f53c0f543ede31a7228479f8b26fba177099ab2986",
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.35.1/TinyIslandSurvival.apk",
+    "sha256": "f6edc09876e571efca7f53604401197804b2a002f35be3a57051ba1c6c28965b",
     "size": 53483422,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.35.0/TinyIslandSurvival-windows.zip",
-    "sha256": "12b951560c8360a4c7e7fb5113bea7000b1bd302cb896ff35ac65c6d135d06fe",
-    "size": 39028858
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.35.1/TinyIslandSurvival-windows.zip",
+    "sha256": "00b9bfa77ed2eae363dc9aa8420952015c782eaa740ddabf9ee9d01e0bc43b4d",
+    "size": 38845440
   },
-  "notes_vi": "Giao diện gọn cho điện thoại (nút biểu tượng, thanh chỉ số mảnh, bản đồ bo góc) và tự báo cập nhật trong game."
+  "notes_vi": "Sửa lỗi: sau khi cấp quyền cài đặt và quay lại game, hộp \"Cài ngay\" tự hiện lại."
 }
