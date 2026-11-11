@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.36.1",
-  "version_code": 5,
+  "version_name": "0.37.0",
+  "version_code": 6,
   "released": "2026-11-11",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.36.1/TinyIslandSurvival.apk",
-    "sha256": "a96c76c5727d24323de3985bb7884a1dd68616ba6c84622db648106964df70c9",
-    "size": 54443091,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.37.0/TinyIslandSurvival.apk",
+    "sha256": "a8a52bc83abdf269f65628e5f4e333e78c4f6b528db25520254b5cae49be06f1",
+    "size": 54799835,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.36.1/TinyIslandSurvival-windows.zip",
-    "sha256": "2a7eabe0de3c34cbb274efd1abe7503b47dfef2894b67fcd30fbaa0558795724",
-    "size": 39759459
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.37.0/TinyIslandSurvival-windows.zip",
+    "sha256": "faccb1a07c250ccbbdaf481fd1253c5cd71ac9b3ba06b749485b9f281a1c7c71",
+    "size": 40026833
   },
-  "notes_vi": "Màn hình mở đầu mới có tên game và hòn đảo thay cho logo Godot."
+  "notes_vi": "Hòn đảo mới lớn gấp đôi: gềnh đá, rừng sâu, rừng ngập mặn, hang, thác nước, đảo nhỏ; tài nguyên mới. Cài đặt → Bắt đầu đảo mới để chơi (đảo cũ được sao lưu)."
 }
