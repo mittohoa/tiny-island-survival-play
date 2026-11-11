@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.34.0",
-  "version_code": 1,
+  "version_name": "0.35.0",
+  "version_code": 2,
   "released": "2026-11-11",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.34.0/TinyIslandSurvival.apk",
-    "sha256": "fdb798490cd773823307c40c131b541f0a8b2bf1fc69008818b470cfd8272504",
-    "size": 53447972,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.35.0/TinyIslandSurvival.apk",
+    "sha256": "aa31d213eae9022c051690f53c0f543ede31a7228479f8b26fba177099ab2986",
+    "size": 53483422,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.34.0/TinyIslandSurvival-windows.zip",
-    "sha256": "042d360c64ba2aa7709018971ffd1fdff846afff9c7ec2b0a2aae8cc1b9677ed",
-    "size": 39000677
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.35.0/TinyIslandSurvival-windows.zip",
+    "sha256": "12b951560c8360a4c7e7fb5113bea7000b1bd302cb896ff35ac65c6d135d06fe",
+    "size": 39028858
   },
-  "notes_vi": "v3.4: nhiệm vụ cứu người, trại NPC, bão và hậu quả, thám hiểm xác tàu, chuỗi Tín hiệu cổ và kết thúc mới."
+  "notes_vi": "Giao diện gọn cho điện thoại (nút biểu tượng, thanh chỉ số mảnh, bản đồ bo góc) và tự báo cập nhật trong game."
 }
