@@ -33,17 +33,19 @@
   ol { padding-left: 20px; }
   code { font-size: .85rem; word-break: break-all; }
   .note { border-left: 4px solid var(--warn); padding: 8px 12px; background: var(--card); border-radius: 6px; }
+  .banner { display: block; width: 100%; aspect-ratio: 20 / 9; object-fit: cover; border-radius: 16px; margin: 0 0 22px; }
   footer { margin-top: 36px; color: var(--muted); font-size: .9rem; }
 </style>
 </head>
 <body>
 <main>
+  <img class="banner" src="assets/banner.png" alt="Tiny Island Survival: hòn đảo nhỏ với cây dừa giữa biển">
   <header>
     <img src="assets/icon.png" alt="Biểu tượng Tiny Island Survival">
     <div>
       <h1>Tiny Island Survival</h1>
       <p class="tag">Sinh tồn trên đảo nhỏ: chặt cây, dựng trại, cứu người lạc, vượt bão, ra khơi tìm xác tàu và giải mã tín hiệu cổ. Chơi hoàn toàn offline.</p>
-      <p class="small">Phiên bản <strong id="ver">0.36.0</strong> · bản thử nghiệm (chưa lên Google Play)</p>
+      <p class="small">Phiên bản <strong id="ver">0.36.1</strong> · bản thử nghiệm (chưa lên Google Play)</p>
     </div>
   </header>
 
@@ -74,8 +76,8 @@
 
   <h2>Kiểm tra file (SHA-256)</h2>
   <p class="small">So với kết quả <code>certutil -hashfile &lt;file&gt; SHA256</code> (Windows) để chắc file tải về nguyên vẹn.</p>
-  <pre class="card"><code id="sums">2bacf73765ec42567aacda8d69ff18156ce43f98cf487d4c0c9f926129d0818e  TinyIslandSurvival.apk
-901cb5c7dd3874ae212404fba005e64bbd0cc3a0ee97b9dc23ca4f918b358c75  TinyIslandSurvival-windows.zip</code></pre>
+  <pre class="card"><code id="sums">a96c76c5727d24323de3985bb7884a1dd68616ba6c84622db648106964df70c9  TinyIslandSurvival.apk
+2a7eabe0de3c34cbb274efd1abe7503b47dfef2894b67fcd30fbaa0558795724  TinyIslandSurvival-windows.zip</code></pre>
   <p class="small">Chứng chỉ ký APK: <code>CN=mittohoa, O=mittohoa</code>, SHA-256 <code>913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3</code>.</p>
 
   <footer>
