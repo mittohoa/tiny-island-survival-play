@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.39.0",
-  "version_code": 8,
+  "version_name": "0.40.0",
+  "version_code": 9,
   "released": "2026-11-12",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.39.0/TinyIslandSurvival.apk",
-    "sha256": "baf55073d6ad2852e2d5f0c6f298eb6e83418e9fd8f052a18ec0386751732ad3",
-    "size": 56334115,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.40.0/TinyIslandSurvival.apk",
+    "sha256": "e0e1ca471f878390a433e2b93b76b967ea87cd270ffbb49b6f05af3e2358b55e",
+    "size": 56412370,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.39.0/TinyIslandSurvival-windows.zip",
-    "sha256": "9616221095b77a64047decd748bc24d9da53ff01621c9ddbf00d76feeeeebdfe",
-    "size": 41214578
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.40.0/TinyIslandSurvival-windows.zip",
+    "sha256": "7b0eb2373a7191c986a6551c73a475d3b5c113cbfe624d2f3577f1f29f67c6ce",
+    "size": 41292424
   },
-  "notes_vi": "Lặn biển với thanh hơi thở, kỹ năng Lặn mới, mò hàu dưới đáy biển; dưới nước màn hình ám xanh, âm thanh bị bóp nghẹt."
+  "notes_vi": "Leo trèo vách đá: bám, leo lên/xuống/ngang, trèo qua mép; tốn Sức, buông tay và té ngã; kỹ năng Leo trèo mới."
 }
