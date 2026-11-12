@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.42.0",
-  "version_code": 11,
+  "version_name": "0.43.0",
+  "version_code": 12,
   "released": "2026-11-12",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.42.0/TinyIslandSurvival.apk",
-    "sha256": "7262dd142c1df63177c471f585d70e32a589ea3d2e1225900b127a7162ea5396",
-    "size": 56462983,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.43.0/TinyIslandSurvival.apk",
+    "sha256": "085a2ff382fa53662518d4b0992a2734118245c151a05a25ecf7b37fd8bc5dea",
+    "size": 56918609,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.42.0/TinyIslandSurvival-windows.zip",
-    "sha256": "f4829c35c05ff06aeda617a1535acad90d3ffd325533770acac23cd1e7838a66",
-    "size": 41329851
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.43.0/TinyIslandSurvival-windows.zip",
+    "sha256": "0988523617a27cd9f14e6640e6526ddc332da1dd5f7ba4dc9009b0e587169435",
+    "size": 41706898
   },
-  "notes_vi": "Chân vịt gỗ và đá dằn lặn; kỹ năng Bơi lặn (bơi trên mặt nước cũng lên cấp)."
+  "notes_vi": "Giao diện mới, hồi máu, né/đỡ/cung, thủy triều, xuồng, kính lặn, nồi đất, ô ruộng."
 }
