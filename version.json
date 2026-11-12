@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.41.0",
-  "version_code": 10,
+  "version_name": "0.42.0",
+  "version_code": 11,
   "released": "2026-11-12",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.41.0/TinyIslandSurvival.apk",
-    "sha256": "362ceed93c2d848d550ba495062f69060fde1e153602383aa5279e23abae4db5",
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.42.0/TinyIslandSurvival.apk",
+    "sha256": "7262dd142c1df63177c471f585d70e32a589ea3d2e1225900b127a7162ea5396",
     "size": 56462983,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.41.0/TinyIslandSurvival-windows.zip",
-    "sha256": "6c520c682b89d254a832e4d16abfacf4e8eb5aaa8bdd199258ca045cd8ba3961",
-    "size": 41328429
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.42.0/TinyIslandSurvival-windows.zip",
+    "sha256": "f4829c35c05ff06aeda617a1535acad90d3ffd325533770acac23cd1e7838a66",
+    "size": 41329851
   },
-  "notes_vi": "Trèo cây dừa hái trái: cây vẫn đứng, trái mọc lại sau một ngày; tốn Sức, có thể rơi nếu bị tấn công."
+  "notes_vi": "Chân vịt gỗ và đá dằn lặn; kỹ năng Bơi lặn (bơi trên mặt nước cũng lên cấp)."
 }
