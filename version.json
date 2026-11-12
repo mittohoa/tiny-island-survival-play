@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.44.0",
-  "version_code": 13,
+  "version_name": "0.45.0",
+  "version_code": 14,
   "released": "2026-11-12",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.44.0/TinyIslandSurvival.apk",
-    "sha256": "b14c15815373becce50c931947af28b5c24a949c2ac7674a29eeff1552f45094",
-    "size": 56982405,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.45.0/TinyIslandSurvival.apk",
+    "sha256": "4b79be13393b14e768ca256ab920eb7ecf33db98e3478955fca6299e8e6c62d8",
+    "size": 57042564,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.44.0/TinyIslandSurvival-windows.zip",
-    "sha256": "9bbdd96cd62aff2d62f1ee4f03a082a8e1f7dc8421e260d703bd7dd1a761e8c6",
-    "size": 41946025
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.45.0/TinyIslandSurvival-windows.zip",
+    "sha256": "5daebf3e6fe93a799a65dfe41cd3d4b8bf2fd4504721cb1d7a4f6d422e84165e",
+    "size": 41995056
   },
-  "notes_vi": "Thuần hóa vẹt/khỉ, lửa tín hiệu được cứu, đập bẫy cá, nhóm người lạ lục thùng (có khóa), đồ ăn ôi thiu + hun khói/phơi khô."
+  "notes_vi": "Trang bị trên người (tự đổi dụng cụ), balo 30/36 ô, máy tự động, ruộng muối, tốc độ game ×1–×8."
 }
