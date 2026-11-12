@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.47.0",
-  "version_code": 16,
+  "version_name": "0.48.0",
+  "version_code": 17,
   "released": "2026-11-13",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.47.0/TinyIslandSurvival.apk",
-    "sha256": "53781cba97535a85bd52496c0a374514fe43c8e7831ce90809362eddee58a569",
-    "size": 57207878,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.48.0/TinyIslandSurvival.apk",
+    "sha256": "31c5472f4b7d19e0a06669deb50bf770bc8281403a13b59be8e8b1b0d7ee005c",
+    "size": 57228696,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.47.0/TinyIslandSurvival-windows.zip",
-    "sha256": "8964a42a48709d9627f1f8cb3ca4623e708f682e6051f6c3ff9e3db4df6fb659",
-    "size": 42137432
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.48.0/TinyIslandSurvival-windows.zip",
+    "sha256": "56384942a03b9818872bf25dd4735cb396f1ceae4783991d702b218068609cca",
+    "size": 42155699
   },
-  "notes_vi": "Tự xây nhà, chuồng heo, nâng cấp công trình thấy rõ, tab chế tạo mới (vuốt trang), NPC lượm đồ đã sửa, kit cấp cao."
+  "notes_vi": "Quay lại đảo cũ (mỗi loại 1 đảo), xuất/nhập đảo sang máy mới, ruộng tự động, đòn liên hoàn."
 }
