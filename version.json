@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.46.0",
-  "version_code": 15,
-  "released": "2026-11-12",
+  "version_name": "0.47.0",
+  "version_code": 16,
+  "released": "2026-11-13",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.46.0/TinyIslandSurvival.apk",
-    "sha256": "04a774fde8b7ed6140104e889d937f21994da49625fbd68aa28e1fe68b2b6834",
-    "size": 57110208,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.47.0/TinyIslandSurvival.apk",
+    "sha256": "53781cba97535a85bd52496c0a374514fe43c8e7831ce90809362eddee58a569",
+    "size": 57207878,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.46.0/TinyIslandSurvival-windows.zip",
-    "sha256": "38309bd06f82a2e8cef9742153ada25ddbf0705f7844464c7e9dfe1b3e397b86",
-    "size": 42055248
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.47.0/TinyIslandSurvival-windows.zip",
+    "sha256": "8964a42a48709d9627f1f8cb3ca4623e708f682e6051f6c3ff9e3db4df6fb659",
+    "size": 42137432
   },
-  "notes_vi": "Buôn bán với nhóm người lạ, bong gân/nhiễm trùng, nón lá & dép, đỡ đúng lúc, câu cá trên xuồng, triều cường, giàn phơi & nhà hun khói, thang dây."
+  "notes_vi": "Tự xây nhà, chuồng heo, nâng cấp công trình thấy rõ, tab chế tạo mới (vuốt trang), NPC lượm đồ đã sửa, kit cấp cao."
 }
