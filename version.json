@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.50.0",
-  "version_code": 19,
+  "version_name": "0.51.0",
+  "version_code": 20,
   "released": "2026-11-13",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.50.0/TinyIslandSurvival.apk",
-    "sha256": "1b20751e6992c4610741c9cc776b6e51fafef968a5c5ace24e91856b91c9fe7e",
-    "size": 57258002,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.51.0/TinyIslandSurvival.apk",
+    "sha256": "1e12afb09794c84ae724e22842d442d7b8a4a03f2e1d0788f29fb5f28e25cfeb",
+    "size": 57275011,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.50.0/TinyIslandSurvival-windows.zip",
-    "sha256": "220741b13eb6d35a8210da50df0d839d180193db8aebf60f7c04996bfdb91b1b",
-    "size": 42182915
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.51.0/TinyIslandSurvival-windows.zip",
+    "sha256": "daebb8d9669102a2a3f1599ebc308a5e8feb1e0c09d10a8f438fae9cca16eead",
+    "size": 42198111
   },
-  "notes_vi": "Quên mật khẩu, xóa tài khoản, tự sao lưu đám mây, bảng xếp hạng, tường cửa sổ."
+  "notes_vi": "Cài đặt chia 5 tab (có nút Đám mây & tài khoản), tổ chim, bến thuyền, thuần hóa nai."
 }
