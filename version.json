@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.52.0",
-  "version_code": 21,
+  "version_name": "0.53.0",
+  "version_code": 22,
   "released": "2026-11-13",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.52.0/TinyIslandSurvival.apk",
-    "sha256": "dfe774446b068915e66d667e355fec1a21a7528eae3e84595d8066dbff4e07e3",
-    "size": 57296365,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.53.0/TinyIslandSurvival.apk",
+    "sha256": "da0923f48fe9d3538b88ecd4ea9964c66b18f0afbaa9cb7582a07a965acfea83",
+    "size": 57313019,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.52.0/TinyIslandSurvival-windows.zip",
-    "sha256": "e979f18ee193785db8385ccee72cc16209ba64c156b03fd59635395e20419e70",
-    "size": 42217670
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.53.0/TinyIslandSurvival-windows.zip",
+    "sha256": "ebdf1156e6b7ec7e86747851487bd97438d64e9b92b1f742573129871edf4a7b",
+    "size": 42230957
   },
-  "notes_vi": "Cầu thang, sàn cao, gác lửng, lan can; chèo bè tự lái; dây an toàn khi leo."
+  "notes_vi": "Nhà 2 tầng, bãi nghêu khi triều thấp, hoạt cảnh cứu hộ, thú nuôi sống động hơn."
 }
