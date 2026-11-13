@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.56.0",
-  "version_code": 25,
+  "version_name": "0.57.0",
+  "version_code": 26,
   "released": "2026-11-13",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.56.0/TinyIslandSurvival.apk",
-    "sha256": "ed597d81687bd4071d53c2c8467c91e1836629bbc140edba918634a72550c523",
-    "size": 57346516,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.57.0/TinyIslandSurvival.apk",
+    "sha256": "61b33a83961ce3a133dde512b55bb65cf759cfe6aade3a0c8ee54f38e05bbefa",
+    "size": 57410738,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.56.0/TinyIslandSurvival-windows.zip",
-    "sha256": "b2164480c97adb198f444cb61d4878c599d916fc9933d4cfd0024bfb73db228c",
-    "size": 42263387
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.57.0/TinyIslandSurvival-windows.zip",
+    "sha256": "2f40a4280bfcdb1e170ca6d7d8984139428dad233d2998bf7312d57795f1e30d",
+    "size": 42314426
   },
-  "notes_vi": "NPC đứng chân bám đất và quay đầu nhìn bạn khi bạn lại gần."
+  "notes_vi": "Đảo hoang dã (v4): núi lửa, đầm lầy, thảo nguyên."
 }
