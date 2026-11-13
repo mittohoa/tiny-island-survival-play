@@ -1,18 +1,18 @@
 {
   "app_id": "com.mittohoa.tinysurvival",
-  "version_name": "0.54.0",
-  "version_code": 23,
+  "version_name": "0.55.0",
+  "version_code": 24,
   "released": "2026-11-13",
   "android": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.54.0/TinyIslandSurvival.apk",
-    "sha256": "be55b940e53d552059ace19bce1353b8a838cc6b3753092d965742836db4b5fe",
-    "size": 57329611,
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.55.0/TinyIslandSurvival.apk",
+    "sha256": "a595cab37623106335a914ef89131624e286b5d2d5356da4e1850bc27f13bb0d",
+    "size": 57346516,
     "signer_sha256": "913387e2af30f9c81712b180117a1064424a0f60170ed5a0d69601ca9315d3f3"
   },
   "windows": {
-    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.54.0/TinyIslandSurvival-windows.zip",
-    "sha256": "53afe111f179d248908f029bf806c1ed002291dd2ed0b872181c45d3651eb8fc",
-    "size": 42249787
+    "url": "https://github.com/mittohoa/tiny-island-survival-play/releases/download/v0.55.0/TinyIslandSurvival-windows.zip",
+    "sha256": "20e3065fbdedb0145c1b7e77c35d42ec45fdf0fd579e77a232bd37a2446f049c",
+    "size": 42262287
   },
-  "notes_vi": "Nhảy bám khi leo vách; tiếng sóng vỗ khớp với bọt sóng."
+  "notes_vi": "Chân bám mặt đất dốc, tay áp vách khi leo, đầu nhìn theo vật và con vật."
 }
